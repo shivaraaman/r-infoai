@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn
+python-multipart
+requests
+openai
+faiss-cpu
+PyPDF2
+python-dotenv
+numpy
